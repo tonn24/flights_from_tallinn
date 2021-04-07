@@ -1,0 +1,13 @@
+,ID,Name,City,Country,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,DZ,Type,Source, City
+0,340,Frankfurt am Main Airport,Frankfurt,Germany,FRA,EDDF,50.033333,8.570556,364,1,E,Europe/Berlin,airport,OurAirports,Frankfurt
+1,412,Kärdla Airport,Kardla,Estonia,KDL,EEKA,58.99079895019531,22.830699920654297,18,2,E,Europe/Tallinn,airport,OurAirports,Kärdla
+2,413,Kuressaare Airport,Kuressaare,Estonia,URE,EEKE,58.22990036010742,22.50950050354004,14,2,E,Europe/Tallinn,airport,OurAirports,Kuressaare
+3,415,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,EETN,59.41329956049999,24.8327999115,131,2,E,Europe/Tallinn,airport,OurAirports,Tallinn
+4,421,Helsinki Vantaa Airport,Helsinki,Finland,HEL,EFHK,60.317199707031,24.963300704956,179,2,E,Europe/Helsinki,airport,OurAirports,Helsinki
+5,502,London Gatwick Airport,London,United Kingdom,LGW,EGKK,51.148102,-0.190278,202,0,E,Europe/London,airport,OurAirports,London
+6,580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.308601,4.76389,-11,1,E,Europe/Amsterdam,airport,OurAirports,Amsterdam
+7,644,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681,1,E,Europe/Oslo,airport,OurAirports,Oslo
+8,679,Warsaw Chopin Airport,Warsaw,Poland,WAW,EPWA,52.1656990051,20.9671001434,362,1,E,Europe/Warsaw,airport,OurAirports,Warsaw
+9,737,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA,59.651901245117,17.918600082397,137,1,E,Europe/Stockholm,airport,OurAirports,Stockholm
+10,2954,Minsk National Airport,Minsk 2,Belarus,MSQ,UMMS,53.882499694824,28.030700683594,670,3,E,Europe/Minsk,airport,OurAirports,Minsk
+11,3953,Riga International Airport,Riga,Latvia,RIX,EVRA,56.92359924316406,23.971099853515625,36,2,E,Europe/Riga,airport,OurAirports,Riga

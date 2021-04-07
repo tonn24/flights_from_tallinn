@@ -1,0 +1,37 @@
+,ID,Name,City_x,Country,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,DZ,Type,Source,City_y
+0,302,Brussels Airport,Brussels,Belgium,BRU,EBBR,50.9014015198,4.48443984985,184,1,E,Europe/Brussels,airport,OurAirports,Brussels
+1,340,Frankfurt am Main Airport,Frankfurt,Germany,FRA,EDDF,50.033333,8.570556,364,1,E,Europe/Berlin,airport,OurAirports,Frankfurt
+2,346,Munich Airport,Munich,Germany,MUC,EDDM,48.353802,11.7861,1487,1,E,Europe/Berlin,airport,OurAirports,Munich
+3,351,Berlin-Tegel Airport,Berlin,Germany,TXL,EDDT,52.5597,13.2877,122,1,E,Europe/Berlin,airport,OurAirports,Berlin
+4,412,Kärdla Airport,Kardla,Estonia,KDL,EEKA,58.99079895019531,22.830699920654297,18,2,E,Europe/Tallinn,airport,OurAirports,Kärdla
+5,413,Kuressaare Airport,Kuressaare,Estonia,URE,EEKE,58.22990036010742,22.50950050354004,14,2,E,Europe/Tallinn,airport,OurAirports,Kuressaare
+6,415,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,EETN,59.41329956049999,24.8327999115,131,2,E,Europe/Tallinn,airport,OurAirports,Tallinn
+7,421,Helsinki Vantaa Airport,Helsinki,Finland,HEL,EFHK,60.317199707031,24.963300704956,179,2,E,Europe/Helsinki,airport,OurAirports,Helsinki
+8,502,London Gatwick Airport,London,United Kingdom,LGW,EGKK,51.148102,-0.190278,202,0,E,Europe/London,airport,OurAirports,London
+9,535,Edinburgh Airport,Edinburgh,United Kingdom,EDI,EGPH,55.95000076293945,-3.372499942779541,135,0,E,Europe/London,airport,OurAirports,Edinburgh
+10,580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.308601,4.76389,-11,1,E,Europe/Amsterdam,airport,OurAirports,Amsterdam
+11,599,Dublin Airport,Dublin,Ireland,DUB,EIDW,53.421299,-6.27007,242,0,E,Europe/Dublin,airport,OurAirports,Dublin
+12,609,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,EKCH,55.617900848389,12.656000137329,17,1,E,Europe/Copenhagen,airport,OurAirports,Copenhagen
+13,644,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681,1,E,Europe/Oslo,airport,OurAirports,Oslo
+14,679,Warsaw Chopin Airport,Warsaw,Poland,WAW,EPWA,52.1656990051,20.9671001434,362,1,E,Europe/Warsaw,airport,OurAirports,Warsaw
+15,737,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA,59.651901245117,17.918600082397,137,1,E,Europe/Stockholm,airport,OurAirports,Stockholm
+16,1198,Paphos International Airport,Paphos,Cyprus,PFO,LCPH,34.71799850463867,32.48569869995117,41,2,E,Asia/Nicosia,airport,OurAirports,Paphos
+17,1222,Girona Airport,Gerona,Spain,GRO,LEGE,41.901000977,2.7605500221,468,1,E,Europe/Madrid,airport,OurAirports,Girona
+18,1230,Málaga Airport,Malaga,Spain,AGP,LEMG,36.67490005493164,-4.499110221862793,53,1,E,Europe/Madrid,airport,OurAirports,Malaga
+19,1354,Nice-Côte d'Azur Airport,Nice,France,NCE,LFMN,43.6584014893,7.215869903560001,12,1,E,Europe/Paris,airport,OurAirports,Nice
+20,1382,Charles de Gaulle International Airport,Paris,France,CDG,LFPG,49.012798,2.55,392,1,E,Europe/Paris,airport,OurAirports,Paris
+21,1525,Il Caravaggio International Airport,Bergamo,Italy,BGY,LIME,45.673901,9.70417,782,1,E,Europe/Rome,airport,OurAirports,Milan
+22,1555,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,LIRF,41.8002778,12.2388889,13,1,E,Europe/Rome,airport,OurAirports,Rome
+23,1606,Malta International Airport,Malta,Malta,MLA,LMML,35.857498,14.4775,300,1,E,Europe/Malta,airport,OurAirports,Malta
+24,1612,Salzburg Airport,Salzburg,Austria,SZG,LOWS,47.7933006287,13.0043001175,1411,1,E,Europe/Vienna,airport,OurAirports,Salzburg
+25,1613,Vienna International Airport,Vienna,Austria,VIE,LOWW,48.110298156738,16.569700241089,600,1,E,Europe/Vienna,airport,OurAirports,Vienna
+26,1678,Zürich Airport,Zurich,Switzerland,ZRH,LSZH,47.464699,8.54917,1416,1,E,Europe/Zurich,airport,OurAirports,Zürich
+27,2944,Kiev Zhuliany International Airport,Kiev,Ukraine,IEV,UKKK,50.40194,30.45194,587,2,E,Europe/Kiev,airport,OurAirports,Kiev
+28,2954,Minsk National Airport,Minsk 2,Belarus,MSQ,UMMS,53.882499694824,28.030700683594,670,3,E,Europe/Minsk,airport,OurAirports,Minsk
+29,2985,Sheremetyevo International Airport,Moscow,Russia,SVO,UUEE,55.972599,37.4146,622,3,N,Europe/Moscow,airport,OurAirports,Moscow
+30,3941,Eleftherios Venizelos International Airport,Athens,Greece,ATH,LGAV,37.9364013672,23.9444999695,308,2,E,Europe/Athens,airport,OurAirports,Athens
+31,3953,Riga International Airport,Riga,Latvia,RIX,EVRA,56.92359924316406,23.971099853515625,36,2,E,Europe/Riga,airport,OurAirports,Riga
+32,3959,Vilnius International Airport,Vilnius,Lithuania,VNO,EYVI,54.634102,25.285801,648,2,E,Europe/Vilnius,airport,OurAirports,Vilnius
+33,3972,Kopitnari Airport,Kutaisi,Georgia,KUT,UGKO,42.176700592,42.4826011658,223,4,N,Asia/Tbilisi,airport,OurAirports,Kutaisi
+34,4198,Weeze Airport,Weeze,Germany,NRN,EDLV,51.6024017334,6.14216995239,106,1,E,Europe/Berlin,airport,OurAirports,Düsseldorf
+35,13696,Istanbul Airport,Istanbul,Turkey,IST,LTFM,41.275278,28.751944,325,3,E,\N,airport,OurAirports,Istanbul
